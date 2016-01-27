@@ -38,3 +38,6 @@ function loop(a,b){
 
 loop(3,12);
 checkCookie();
+//setCookie("bla", "burek", 365);
+//document.getElementById("cookie").innerHTML += document.cookie;//getCookie("bla");
+
