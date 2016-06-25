@@ -10,9 +10,10 @@ My personal page with portfolio and other stuff about me.
 
 ## TODO
 
-*Add content
-*Find pictures
-*Create draft and scheme of page
+* Translate content
+* Find pictures for portfolio
+* Add description about me
+* Add description about each elemnent of portfolio
 
 ## Authors
 * **Official Repo** [Link](https://github.com/BlackrockDigital/startbootstrap-freelancer)
