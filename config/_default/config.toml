@@ -1,0 +1,15 @@
+baseURL = "https://vsemu-kos.si"
+languageCode = "en"
+title = "Rok Kos"
+theme = "hugo-theme-monochrome"
+defaultContentLanguage = "en"
+enableEmoji = true
+paginate = 5
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
