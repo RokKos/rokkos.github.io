@@ -10,10 +10,16 @@ My personal page with portfolio and other stuff about me.
 
 ## TODO
 
-* Translate content
-* Find pictures for portfolio
-* Add description about me
-* Add description about each elemnent of portfolio
+* Content
+* Google verification check
+* Google open graph verification check + Open Graph verification check
+* Google search Console
+
+About
+
+- organizirannje dogodkov
+- social linki = linkedin, github, -> prave ikone
+- Zamenjaj za Katex namesto Matjax (ali pa saj Mathjax 3)
 
 ## Authors
 * **Official Repo** [Link](https://github.com/BlackrockDigital/startbootstrap-freelancer)

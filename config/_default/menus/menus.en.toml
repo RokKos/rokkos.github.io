@@ -8,3 +8,9 @@
   name = "Blog"
   url = "/blog/"
   weight = 2
+
+  [[navbar]]
+  identifier = "portfolio"
+  name = "Portfolio"
+  url = "/portfolio/"
+  weight = 3

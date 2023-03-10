@@ -1,0 +1,46 @@
+{{ define "content" }}
+
+<div class="content-margin">
+    <div class="my-8">
+        <h1>{{ .Title }}</h1>
+        {{ if .Content }}
+            {{- partial "content.html" . -}}
+        {{ end }}
+    </div>
+
+    <h3>Commercial Games</h3>
+        <div class="portfolio-layout content-margin">
+            {{ range .Params.CommercialGames }}
+                {{- partial "portfolio/icon_item.html" . -}}
+            {{ end }}
+        </div>
+
+    <h3>Art Projects</h3>
+        <div class="portfolio-layout content-margin">
+            {{ range .Params.ArtProjects }}
+                {{- partial "portfolio/icon_item.html" . -}}
+            {{ end }}
+        </div>
+
+
+    <h3>Game Jams</h3>
+        <div class="portfolio-layout content-margin">
+            {{ range .Params.GameJams }}
+                {{ if .embed_number }}
+                    {{- partial "portfolio/item.html" . -}}
+                {{else }}
+                    {{- partial "portfolio/icon_item.html" . -}}
+                {{ end }}
+            {{ end }}
+        </div>
+
+    <h3>Hackatons</h3>
+        <div class="portfolio-layout content-margin">
+            {{ range .Params.Hackatons }}
+                {{- partial "portfolio/icon_item.html" . -}}
+            {{ end }}
+        </div>
+    
+
+</div>
+{{ end }}
