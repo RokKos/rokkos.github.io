@@ -7,12 +7,13 @@ balloon_resources: "/about"
 description: "Rok Kos personal website"
 zooming_js: false
 keywords:
-- hugo
-- hugo theme
-- hugo theme monochrome
-- clean
-- responsive
-- programmer-friendly
+- rok kos
+- rendering engineer
+- software development
+- minimalism
+- DIY
+- game engines
+- low level hardware
 ---
 
 ### Hi there 👋 I am Rok

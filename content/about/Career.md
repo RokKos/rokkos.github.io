@@ -8,4 +8,4 @@ weight: 3
 * Mar 2017 - Mar 2020 : Junior Software Engineer @ [Outfit7](https://outfit7.com/)
 * Mar 2017 - Jul 2017 : Machine Learning Scientist @ [Ektimo](https://www.linkedin.com/company/ektimo/?originalSubdomain=si)
 
-More info in [CV]()
+More info in [CV](RokKosCV.pdf)
