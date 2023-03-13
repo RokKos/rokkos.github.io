@@ -64,3 +64,4 @@ Hackatons:
   link: https://github.com/RokKos/DragonHack2017/releases
 
 ---
+Collection of all my projects from [Itch.io](https://rokkos.itch.io/) and [GitHub](https://github.com/RokKos) and [Global Game Jam](https://globalgamejam.org/users/rokkos)
