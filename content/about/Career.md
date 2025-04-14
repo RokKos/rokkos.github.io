@@ -1,6 +1,6 @@
 ---
 title: 'Career'
-weight: 3
+weight: 2 
 ---
 
 * Jul 2023 - Present  : Development Lead @ [Sloyd.ai](https://www.sloyd.ai/)

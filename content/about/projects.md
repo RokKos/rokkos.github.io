@@ -1,6 +1,6 @@
 ---
 title: 'Portfolio Projects'
-weight: 2
+weight: 3 
 ---
 
 * [Another future entirely](https://another-future-entirely.onrender.com/) - Helped developed visualisation of two AI entities debating about brighter future. Implemented in Unity with assets from Midjourney and GPT3.
